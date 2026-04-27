@@ -1,0 +1,6 @@
+{
+  "name": "Smart Document Search",
+  "description": "An advanced search engine for documents using TF-IDF ranking and content analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
