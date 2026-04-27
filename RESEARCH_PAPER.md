@@ -1,8 +1,16 @@
+<div align="center">
+
 # Smart Document Search: An AI-Ready Information Retrieval System with TF-IDF Ranking and Modern Web Architecture
 
 **Mohammed Shehriyaar F**, **Mohammed Muteeb Ahmed**, **Mohammed Ibrahim**
 
+*Department of Information Science*
+
+</div>
+
 ---
+
+<div style="column-count: 2; column-gap: 2.5em; text-align: justify; line-height: 1.6;">
 
 ## Abstract
 
@@ -370,6 +378,13 @@ This project serves as a foundation for understanding information retrieval conc
 
 [9] Tailwind CSS. (2024). *Rapidly build modern websites without ever leaving your HTML*. https://tailwindcss.com/
 
+</div>
+
 ---
 
-*Submitted by: Mohammed Shehriyaar F, Mohammed Muteeb Ahmed, Mohammed Ibrahim*
+<div align="center">
+
+*Submitted by: Mohammed Shehriyaar F, Mohammed Muteeb Ahmed, Mohammed Ibrahim*  
+*Department of Information Science*
+
+</div>
